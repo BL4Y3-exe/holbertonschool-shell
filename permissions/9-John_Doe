@@ -1,2 +1,2 @@
-#!/bin/binary
+#!/bin/bin
 chmod 753 hello
